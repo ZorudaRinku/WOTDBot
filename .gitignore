@@ -1,0 +1,4 @@
+
+*.pyc
+used_words.txt
+unused_words.txt
